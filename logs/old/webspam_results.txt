@@ -1,0 +1,2 @@
+alpha : 1, epochs : 100, accuracy : 93.1735714286%, time : 142.937000036 s
+alpha : 1, epochs : 100, accuracy : 93.1957142857%, time : 126.551687002 s

@@ -1,0 +1,2 @@
+eta : 0.1, lambda : 1e-06, epochs : 100, accuracy : 58.0238201783%, time : 208.128538847 s
+eta : 0.1, lambda : 1e-06, epochs : 200, accuracy : 58.0238201783%, time : 407.363767147 s

@@ -1,0 +1,15 @@
+alpha : 0.003125, epochs : 1000, accuracy : 89.3071428571%
+alpha : 0.003125, epochs : 1000, accuracy : 89.3071428571%
+alpha : 0.03125, epochs : 1000, accuracy : 81.4714285714%
+alpha : 3.125e-05, epochs : 1000, accuracy : 90.4%
+alpha : 3.125e-05, epochs : 100, accuracy : 90.4%
+alpha : 0.0003, epochs : 100, accuracy : 90.4%
+alpha : 0.0003, epochs : 200, accuracy : 90.4571428571%
+alpha : 0.0004, epochs : 200, accuracy : 90.6714285714%
+alpha : 0.0004, epochs : 300, accuracy : 90.7%
+alpha : 0.0004, epochs : 500, accuracy : 90.6428571429%
+alpha : 0.0004, epochs : 500, accuracy : 89.2571428571%
+alpha : 0.0008, epochs : 500, accuracy : 89.2571428571%
+alpha : 0.1, epochs : 500, accuracy : 89.2571428571%
+alpha : 0.1, epochs : 500, accuracy : 89.2571428571%
+alpha : 0.1, epochs : 500, accuracy : 89.2571428571%

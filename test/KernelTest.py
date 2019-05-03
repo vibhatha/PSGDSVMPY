@@ -1,0 +1,15 @@
+import sklearn.metrics.pairwise
+import numpy as np
+a = np.array([[1,3],[3,4],[6,7],[8,1], [1,2]])
+x = sklearn.metrics.pairwise.linear_kernel(a)
+x2 = sklearn.metrics.pairwise.rbf_kernel(X=a, gamma=0.01)
+x3 = sklearn.metrics.pairwise.polynomial_kernel(X=a, degree=2)
+print(a)
+print(x)
+print(x2)
+print(x3)
+print("--------------------------------------------------")
+a1 = np.array([[1,2,3,4,5]])
+a1k = sklearn.metrics.pairwise.linear_kernel(a1)
+print(a1)
+print(a1k)

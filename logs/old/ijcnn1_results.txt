@@ -1,0 +1,19 @@
+alpha : 10, epochs : 200, accuracy : 91.922661694%
+alpha : 10, epochs : 500, accuracy : 91.9477432089%
+alpha : 15, epochs : 200, accuracy : 91.922661694%
+alpha : 20, epochs : 200, accuracy : 91.922661694%
+alpha : 20, epochs : 200, accuracy : 91.922661694%
+alpha : 20, epochs : 200, accuracy : 91.922661694%
+alpha : 0.8, epochs : 200, accuracy : 91.922661694%, time : 70.0547220707 s
+alpha : 8e-05, epochs : 100, accuracy : 92.2770744049%, time : 41.1470758915 s
+alpha : 8e-05, epochs : 200, accuracy : 92.1614813361%, time : 75.0354959965 s
+alpha : 2e-05, epochs : 100, accuracy : 92.289069912%, time : 38.6701550484 s
+alpha : 1e-05, epochs : 100, accuracy : 92.2094633646%, time : 43.957971096 s
+alpha : 1, epochs : 100, accuracy : 92.4384685009%, time : 36.8289458752 s
+alpha : 10, epochs : 100, accuracy : 92.1985583581%, time : 40.2594821453 s
+alpha : 0.5, epochs : 100, accuracy : 92.3196039302%, time : 45.357583046 s
+alpha : 1, epochs : 200, accuracy : 92.226911375%, time : 76.4743249416 s
+alpha : 1e-05, epochs : 100, accuracy : 92.2879794113%, time : 36.1872839928 s
+alpha : 0.1, epochs : 100, accuracy : 91.7198285733%, time : 17.1654620171 s
+alpha : 1e-05, epochs : 100, accuracy : 91.5867874941%, time : 16.3715610504 s
+alpha : 1, epochs : 100, accuracy : 91.6500365318%, time : 17.5959498882 s

@@ -1,0 +1,5 @@
+Dataset,Lamda,Epochs,Accuracy,Time (s)
+a9a,0.0001,50,79.37,2.55
+ijcnn1,1e-05,50,90.21,7.75
+webspam,1e-05,100,77.15,217.04
+covtype,0.01,50,58.02,118.89

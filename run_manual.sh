@@ -1,0 +1,5 @@
+alpha=$1
+python experiment/DynamicBenchmark.py --trainFile /N/u/vlabeyko/data/svm/svm/webspam/training.csv --split True --features 254 --alpha $alpha --epochs 50 --exp_name webspam --eta 0.012 --lambda 0.001 --labelFix False --randomize True
+python experiment/DynamicBenchmark.py --trainFile /N/u/vlabeyko/data/svm/svm/covtype/training.csv --split True --features 54 --alpha $alpha --epochs 50 --exp_name covtype --eta 0.012 --lambda 0.001 --labelFix False --randomize True
+python experiment/DynamicBenchmark.py --trainFile /N/u/vlabeyko/data/svm/svm/ijcnn1/training.csv --testFile /N/u/vlabeyko/data/svm/svm/ijcnn1/testing.csv --split False --features 22 --alpha $alpha --epochs 50 --exp_name ijcnn1 --eta 0.012 --lambda 0.001 --labelFix False --randomize True
+python experiment/DynamicBenchmark.py --trainFile /N/u/vlabeyko/data/svm/svm/a9a/training.csv --testFile /N/u/vlabeyko/data/svm/svm/a9a/testing.csv --split False --features 123 --alpha $alpha --epochs 50 --exp_name a9a --eta 0.012 --lambda 0.001 --labelFix False --randomize True

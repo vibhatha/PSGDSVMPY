@@ -1,0 +1,5 @@
+dataset,training data,testing data,features,sparsity
+ijcnn1,49990,91701,22,40.91
+webspam,210000,140000,254,66.48
+a9a,32561,16281,123,88.72
+covtype,348607,232405,54,77.88

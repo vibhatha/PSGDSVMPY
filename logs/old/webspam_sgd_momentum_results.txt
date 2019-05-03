@@ -1,0 +1,8 @@
+alpha : 1, epochs : 100, accuracy : 39.6471428571%, time : 332.423827887 s
+alpha : 1, epochs : 100, accuracy : 39.3842857143%, time : 358.775264978 s
+alpha : 1, epochs : 100, accuracy : 69.5392857143%, time : 176.974069118 s
+alpha : 0.01, epochs : 100, accuracy : 39.3585714286%, time : 178.162137032 s
+alpha : 0.01, epochs : 100, accuracy : 30.6985714286%, time : 168.931671858 s
+alpha : 1, epochs : 100, accuracy : 60.32%, time : 180.946171999 s
+alpha : 1, C : 1, gamma : 1, epochs : 100, accuracy : 36.9742857143%, time : 225.944941998 s
+alpha : 1, C : 1, gamma : 1, epochs : 100, accuracy : 60.5757142857%, time : 232.398899794 s
